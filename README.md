@@ -17,7 +17,7 @@
 f1_score_result = evaluateTask1.f1_score(predictedTestResult)
 ```
 
-3. Task2_<method>.py
+3. Task2_\<method\>.py
 	- Python code of the method used in Task 2
 
 4. evaluateTask2.py
