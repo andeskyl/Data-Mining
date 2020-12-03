@@ -2,7 +2,7 @@
 #### Document:
 1. README.md
 	- A file to describe group information and all the files
-2. FTEC4003_report_06.pdf
+2. FTEC4003_report_06.pdf (not shown here)
 	- A file to briefly describe the platform, the method, experimental evaluations, results and conclusions of the two tasks. 
 
 #### Code:
