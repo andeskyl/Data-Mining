@@ -6,7 +6,7 @@
 	- A file to briefly describe the platform, the method, experimental evaluations, results and conclusions of the two tasks. 
 
 #### Code:
-1. Task1_<method>.py
+1. Task1_\<method\>.py
 	- Python code of the method used in Task 1
 
 2. evaluateTask1.py
@@ -29,7 +29,7 @@ f1_score_result = evaluateTask2.f1_score(predictedTestResult)
 ```
 
 #### Output:
-1. submission_1_<method>.csv
+1. submission_1_\<method\>.csv
 	- Classification result from the method used in Task 1
-2. submission_2_<method>.csv
+2. submission_2_\<method\>.csv
 	- Classification result from the method used in Task 2
