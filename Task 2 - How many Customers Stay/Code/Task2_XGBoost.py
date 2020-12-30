@@ -50,7 +50,7 @@ predictedTestResult = clf.predict(preprocessing.scale(df_test[columnsIncluded].v
 # output to corresponding file
 df_testOutput = df_test[["RowNumber"]]
 df_testOutput.insert(1, "Exited", predictedTestResult, True)
-df_testOutput.to_csv("C:/Users/Andes/Desktop/FTEC4003_Project/Task_2/Code/submission_2_XGBoost.csv", index=False)
+df_testOutput.to_csv("submission_2_XGBoost.csv", index=False)
 
 # compute f1 score
 f1_score_result = evaluateTask2.f1_score(predictedTestResult)
