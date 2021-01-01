@@ -8,7 +8,7 @@
 #### Package Imported:
 - To install package, type the following command in a terminal:
 ```bash
-pip install <package name>
+pip install <package_name>
 ```
 1. sklearn: responsible for implementing different data mining methods, as well as performing data preprocessing.
 2. pandas: responsible for importing and exporting data from / to csv, as well as processing data
