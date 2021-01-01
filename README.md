@@ -6,13 +6,14 @@
 	- A file to briefly describe the platform, the method, experimental evaluations, results and conclusions of the two tasks. 
 
 #### Package Imported:
+- To install package, type the following command in a terminal:
+```bash
+pip install <package name>
+```
 1. sklearn: responsible for implementing different data mining methods, as well as performing data preprocessing.
 2. pandas: responsible for importing and exporting data from / to csv, as well as processing data
 3. matplotlib: responsible for graph plotting for parameter optimization.
 4. xgboost: responsible for the XGBoost Classifier in Task 2
-```bash
-pip install <package name>
-```
 
 #### Code:
 1. Task1_\<method\>.py
