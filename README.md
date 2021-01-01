@@ -1,4 +1,4 @@
-# FTEC4003 Course Project 
+# FTEC4003 Data Mining Project 
 #### Document:
 1. README.md
 	- A file to describe group information and all the files
