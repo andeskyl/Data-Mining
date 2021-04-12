@@ -47,3 +47,5 @@ f1_score_result = evaluateTask2.f1_score(predictedTestResult)
 
 ## Achievement:
 Best Project Award Runner-up in Fall 2020 FTEC4003.
+
+© 2020 Team 2359
