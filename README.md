@@ -43,3 +43,6 @@ f1_score_result = evaluateTask2.f1_score(predictedTestResult)
 	- Classification result from the method used in Task 1
 2. submission_2_\<method\>.csv
 	- Classification result from the method used in Task 2
+
+## Achievement:
+Best Project Award Runner-up in Fall 2020 FTEC4003.
