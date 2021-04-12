@@ -1,11 +1,12 @@
-# FTEC4003 Data Mining Project 
-#### Document:
+# Data Mining Project
+The course project for FTEC4003 Data Mining, which is a competition on solving 2 classification problems
+## Document:
 1. README.md
 	- A file to describe group information and all the files
 2. FTEC4003_report_06.pdf
 	- A file to briefly describe the platform, the method, experimental evaluations, results and conclusions of the two tasks. 
 
-#### Package Imported:
+## Package Imported:
 - To install package, type the following command in a terminal:
 ```bash
 pip install <package_name>
@@ -15,7 +16,7 @@ pip install <package_name>
 3. matplotlib: responsible for graph plotting for parameter optimization.
 4. xgboost: responsible for the XGBoost Classifier in Task 2
 
-#### Code:
+## Code:
 1. Task1_\<method\>.py
 	- Python code of the method used in Task 1
 
@@ -38,7 +39,7 @@ f1_score_result = evaluateTask1.f1_score(predictedTestResult)
 f1_score_result = evaluateTask2.f1_score(predictedTestResult)
 ```
 
-#### Output:
+## Output:
 1. submission_1_\<method\>.csv
 	- Classification result from the method used in Task 1
 2. submission_2_\<method\>.csv
