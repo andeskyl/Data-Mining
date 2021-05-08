@@ -1,5 +1,5 @@
 # Data Mining Project
-The course project for FTEC4003 Data Mining, which is a competition on solving 2 classification problems
+The course project for FTEC4003 Data Mining, which is a competition on solving 2 classification problems.
 ## Document:
 1. README.md
 	- A file to describe group information and all the files
